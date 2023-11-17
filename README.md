@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Valen Potloff
-vpotloff@ucsd.edu
+Valen Potloff and Rana Lulla
